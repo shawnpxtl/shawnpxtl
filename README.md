@@ -48,6 +48,13 @@ Telegram：@infinityandtl
 
 - :iphone: Phones:
     - [Realme GT Exp.Master Edition](https://www.realme.com/cn/realme-gt-riven-a)
+    - OnePlus 7 Pro(guacamole)
+    - Smartisan Nut Pro 2S(ocean)
+    - Xiaomi Redmi 5 Plus(vince)
+    - Lenovo ZUK Z2(z2_plus)
+    - OnePlus One(bacon)
+    - OPPO A31
+    - Vivo Y23L
 
 - 🌏 Router:
     - [Xiaomi Redmi AX6](https://github.com/InfinityTL/OpenWrt-Redmi-AX6)
