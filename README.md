@@ -10,7 +10,7 @@
     </a>
     <a href="https://github.com/InfinityTL">
         <img alt="github"
-            src="https://img.shields.io/github/stars/InfinityTL?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+            src="https://img.shields.io/github/stars/InfinityTL?affiliations=OWNER&color=%2366ccff&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
 </p>
 
@@ -36,7 +36,7 @@ Telegram：@infinityandtl
 
 - :computer: PC:
     - [OMEN By HP Gaming Laptop 16-k0009TX (i7-12700H+RTX3060 16+512G)](https://www.omen.com/us/en/laptops/2022-omen-16-intel.html)
-    - [HSGM D1581-R3 (Xeon D1581+R7 350 32+512G/1T/4T)](https://www.huoshen99.com/pd.jsp?id=81#pfc=%7B%22groupIds%22%3A%5B11%5D%2C%22lid%22%3A1%2C%22sc%22%3A%7B%22key%22%3A%22addedTime%22%2C%22desc%22%3Atrue%7D%7D&_jcp=3_11)
+    - [HSGM D1581-R3 (Xeon D-1581+R7 350 32+512G/1T/4T)](https://www.huoshen99.com/pd.jsp?id=81#pfc=%7B%22groupIds%22%3A%5B11%5D%2C%22lid%22%3A1%2C%22sc%22%3A%7B%22key%22%3A%22addedTime%22%2C%22desc%22%3Atrue%7D%7D&_jcp=3_11)
     - [Lenovo IdedPad Miix700-12isk (m5-6Y54 8+128G)](https://www.lenovo.com/us/en/p/tablets/windows-tablets/miix-series/ideapad-miix-700/88ipmx70637)
 
 - :iphone: Phones:
