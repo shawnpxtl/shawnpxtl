@@ -28,7 +28,7 @@
 
 # 自我介绍
 
-中文名：平行天翎
+**中文名：平行天翎**
 
 BiliBili：[平行天翎](https://space.bilibili.com/14301568)
 
