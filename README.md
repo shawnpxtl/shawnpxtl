@@ -21,6 +21,10 @@
 ![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/languages.svg)
 
+# 安利下：）
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/#/playlist?id=75531717&auto=1&height=430"></iframe>
+
 # 一些小项目
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfinityTL&repo=OpenWrt-Redmi-AX6)](https://github.com/InfinityTL/OpenWrt-Redmi-AX6)
