@@ -35,7 +35,7 @@
     - :email: [wegtery9@outlook.com](mailto:wegtery9@outlook.com)
     - :tv: [Bilibili@平行天翎](https://space.bilibili.com/14301568)
     - 🪪 QQ:1098441344
-    - 🪪 Telegram：@infinityandtl
+    - 🪪 Telegram:@infinityandtl
 
 - :computer: PC/Laptop/Tablets:
     - [OMEN By HP Gaming Laptop 16-k0009TX (i7-12700H+RTX3060 16+512G)](https://www.omen.com/us/en/laptops/2022-omen-16-intel.html)
