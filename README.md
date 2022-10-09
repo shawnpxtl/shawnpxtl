@@ -16,7 +16,7 @@
 
 <h1 align="center">Hi 👋, I'm InfinityTL</h1>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=InfinityTL&bg_color=60,66ccff,66ccff&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=InfinityTL&bg_color=60,66ccff,08d9ff&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/languages.svg)
