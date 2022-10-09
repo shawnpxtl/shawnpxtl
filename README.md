@@ -43,4 +43,4 @@ Telegram：@infinityandtl
     - [Realme GT Exp.Master Edition](https://www.realme.com/cn/realme-gt-riven-a)
 
 - 🌏 Router:
-    - Xiaomi Redmi AX6
+    - [Xiaomi Redmi AX6](https://github.com/InfinityTL/OpenWrt-Redmi-AX6)
