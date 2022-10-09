@@ -25,6 +25,20 @@
 
 BiliBili：[平行天翎](https://space.bilibili.com/14301568)
 
-QQ：[1098441344](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1098441344&website=www.oicqzone.com)
+QQ：1098441344
 
 Telegram：@infinityandtl
+
+- 📫 How to reach me:
+    - :octocat: [Github@InfinityTL](https://github.com/InfinityTL)
+    - :email: [wegtery9@outlook.com](mailto:wegtery9@outlook.com)
+    - :tv: [Bilibili@平行天翎](https://space.bilibili.com/14301568)
+
+- :computer: PC:
+    - [OMEN By HP Gaming Laptop 16-k0009TX (i7-12700H+RTX3060 16+512G)](https://www.omen.com/us/en/laptops/2022-omen-16-intel.html)
+    - [HSGM D1581-R3 (Xeon D1581+R7 350 32+512G/1T/4T)](https://www.huoshen99.com/pd.jsp?id=81#pfc=%7B%22groupIds%22%3A%5B11%5D%2C%22lid%22%3A1%2C%22sc%22%3A%7B%22key%22%3A%22addedTime%22%2C%22desc%22%3Atrue%7D%7D&_jcp=3_11)
+    - [Lenovo IdedPad Miix700-12isk (m5-6Y54 8+128G)](https://www.lenovo.com/us/en/p/tablets/windows-tablets/miix-series/ideapad-miix-700/88ipmx70637)
+
+- :Phones:
+    - [Realme GT Exp.Master Edition](https://www.realme.com/cn/realme-gt-riven-a)
+
