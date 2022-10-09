@@ -20,3 +20,8 @@
 
 ![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/languages.svg)
+
+中文名：平行天翎
+BiliBili：[平行天翎](https://space.bilibili.com/14301568)
+QQ：[1098441344](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1098441344&website=www.oicqzone.com)
+Telegram：@infinityandtl
