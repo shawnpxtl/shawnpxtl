@@ -26,6 +26,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfinityTL&repo=OpenWrt-Redmi-AX6)](https://github.com/InfinityTL/OpenWrt-Redmi-AX6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfinityTL&repo=MIIX700-MIIX4-OpenCore-EFI)](https://github.com/InfinityTL/MIIX700-MIIX4-OpenCore-EFI)
 
+# 自我介绍
+
 中文名：平行天翎
 
 BiliBili：[平行天翎](https://space.bilibili.com/14301568)
