@@ -42,3 +42,5 @@ Telegram：@infinityandtl
 - :iphone: Phones:
     - [Realme GT Exp.Master Edition](https://www.realme.com/cn/realme-gt-riven-a)
 
+- 🌏 Router:
+    - Xiaomi Redmi AX6
