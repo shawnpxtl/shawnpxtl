@@ -31,7 +31,6 @@
 **中文名：平行天翎**
 
 - 📫 How to reach me:
-    - :octocat: [Github@InfinityTL](https://github.com/InfinityTL)
     - :email: [wegtery9@outlook.com](mailto:wegtery9@outlook.com)
     - :tv: [Bilibili@平行天翎](https://space.bilibili.com/14301568)
     - 🪪 QQ:1098441344
