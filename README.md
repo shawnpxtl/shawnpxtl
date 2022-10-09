@@ -13,3 +13,10 @@
             src="https://img.shields.io/github/stars/InfinityTL?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
 </p>
+
+<h1 align="center">Hi 👋, I'm InfinityTL</h1>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=InfinityTL&bg_color=60,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/languages.svg)
