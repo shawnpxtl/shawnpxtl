@@ -39,6 +39,6 @@ Telegram：@infinityandtl
     - [HSGM D1581-R3 (Xeon D1581+R7 350 32+512G/1T/4T)](https://www.huoshen99.com/pd.jsp?id=81#pfc=%7B%22groupIds%22%3A%5B11%5D%2C%22lid%22%3A1%2C%22sc%22%3A%7B%22key%22%3A%22addedTime%22%2C%22desc%22%3Atrue%7D%7D&_jcp=3_11)
     - [Lenovo IdedPad Miix700-12isk (m5-6Y54 8+128G)](https://www.lenovo.com/us/en/p/tablets/windows-tablets/miix-series/ideapad-miix-700/88ipmx70637)
 
-- :Phones:
+- :iphone: Phones:
     - [Realme GT Exp.Master Edition](https://www.realme.com/cn/realme-gt-riven-a)
 
