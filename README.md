@@ -37,8 +37,8 @@
     - 🪪 Telegram:@infinityandtl
 
 - :computer: PC/Laptop/Tablets:
-    - [OMEN By HP Gaming Laptop 16-k0009TX (i7-12700H+RTX3060 16+512G)](https://www.omen.com/us/en/laptops/2022-omen-16-intel.html)
-    - [HSGM D1581-R3 (Xeon D-1581+R7 350 32+512G/1T/4T)](https://www.huoshen99.com/pd.jsp?id=81#pfc=%7B%22groupIds%22%3A%5B11%5D%2C%22lid%22%3A1%2C%22sc%22%3A%7B%22key%22%3A%22addedTime%22%2C%22desc%22%3Atrue%7D%7D&_jcp=3_11)
+    - [OMEN By HP Gaming Laptop 16-k0009TX (i7-12700H+RTX3060 40+2.5T)](https://www.omen.com/us/en/laptops/2022-omen-16-intel.html)
+    - [HSGM D1581-R3 (Xeon D-1581+R7 350 32+512G NVME/1T SATA SSD/1T HDD/4T HDD)](https://www.huoshen99.com/pd.jsp?id=81#pfc=%7B%22groupIds%22%3A%5B11%5D%2C%22lid%22%3A1%2C%22sc%22%3A%7B%22key%22%3A%22addedTime%22%2C%22desc%22%3Atrue%7D%7D&_jcp=3_11)
     - [Lenovo IdeaPad Miix700-12isk (m5-6Y54 8+128G)](https://www.lenovo.com/us/en/p/tablets/windows-tablets/miix-series/ideapad-miix-700/88ipmx70637)
 
 - :iphone: Phones:
