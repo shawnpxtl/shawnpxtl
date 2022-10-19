@@ -23,7 +23,8 @@
 
 # 一些小项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfinityTL&repo=OpenWrt-Redmi-AX6)](https://github.com/InfinityTL/OpenWrt-Redmi-AX6)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfinityTL&repo=OpenWrt-Redmi-AX6-Robi)](https://github.com/InfinityTL/OpenWrt-Redmi-AX6-Robi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfinityTL&repo=OpenWrt-Redmi-AX6-Lean)](https://github.com/InfinityTL/OpenWrt-Redmi-AX6-Lean)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfinityTL&repo=MIIX700-MIIX4-OpenCore-EFI)](https://github.com/InfinityTL/MIIX700-MIIX4-OpenCore-EFI)
 
 # 自我介绍
