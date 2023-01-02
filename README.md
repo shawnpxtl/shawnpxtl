@@ -16,10 +16,10 @@
 
 <h1 align="center">Hi 👋, I'm InfinityTL</h1>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=InfinityTL&bg_color=60,66ccff,66ccff&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shawnpxtl&bg_color=60,66ccff,66ccff&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/InfinityTL/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/shawnpxtl/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/shawnpxtl/github-stats-transparent/output/generated/languages.svg)
 
 # 一些小项目
 
