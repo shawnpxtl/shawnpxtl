@@ -14,7 +14,7 @@
     </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm InfinityTL</h1>
+<h1 align="center">Hi 👋, I'm Shawn. TianLing</h1>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shawnpxtl&bg_color=60,66ccff,66ccff&title_color=fff&text_color=fff)
 
