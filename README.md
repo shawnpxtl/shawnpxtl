@@ -42,7 +42,7 @@
     - [Lenovo IdeaPad Miix700-12isk (国行名称：联想MIIX4,m5-6Y54 8G+128G)](https://www.lenovo.com/us/en/p/tablets/windows-tablets/miix-series/ideapad-miix-700/88ipmx70637)
 
 - :iphone: Phones:
-    - [Realme GT Exp.Master Edition](https://www.realme.com/cn/realme-gt-riven-a)
+    - Apple iPhone 14 Pro
     - OnePlus 7 Pro(guacamole)
     - Smartisan Nut Pro 2S(ocean)
     - Xiaomi Redmi 5 Plus(vince)
