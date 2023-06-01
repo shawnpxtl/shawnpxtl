@@ -32,7 +32,7 @@
 
 - 📫 How to reach me:
     - :email: [wegtery9@outlook.com](mailto:wegtery9@outlook.com)
-    - :tv: [Bilibili@平行天翎](https://space.bilibili.com/14301568)
+    - :tv: [Bilibili](https://space.bilibili.com/14301568)
     - 🪪 QQ:1098441344(有问题可以联系，顺便欢迎扩列~)
     - 🪪 Telegram:@infinityandtl
 
