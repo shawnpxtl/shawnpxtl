@@ -52,4 +52,4 @@
     - Vivo Y23L
 
 - 🌏 Router:
-    - [Xiaomi Redmi AX6](https://github.com/shawnpxtl/OpenWrt-Redmi-AX6)
+    - [Xiaomi Redmi AX6](https://github.com/shawnpxtl/Actions-OpenWrt-Redmi-AX6)
