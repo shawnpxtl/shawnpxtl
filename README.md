@@ -23,7 +23,7 @@
 
 # 一些小项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shawnpxtl&repo=OpenWrt-Redmi-AX6)](https://github.com/shawnpxtl/OpenWrt-Redmi-AX6-Robi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shawnpxtl&repo=Actions-OpenWrt-Redmi-AX6)](https://github.com/shawnpxtl/Actions-OpenWrt-Redmi-AX6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shawnpxtl&repo=MIIX700-MIIX4-OpenCore-EFI)](https://github.com/shawnpxtl/MIIX700-MIIX4-OpenCore-EFI)
 
 # 自我介绍
