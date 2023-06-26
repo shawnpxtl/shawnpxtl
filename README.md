@@ -16,16 +16,6 @@
 
 <h1 align="center">Hi 👋, I'm Shawn. TianLing</h1>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shawnpxtl&bg_color=60,66ccff,66ccff&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/shawnpxtl/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/shawnpxtl/github-stats-transparent/output/generated/languages.svg)
-
-# 一些小项目
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shawnpxtl&repo=Actions-OpenWrt-Redmi-AX6)](https://github.com/shawnpxtl/Actions-OpenWrt-Redmi-AX6)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shawnpxtl&repo=MIIX700-MIIX4-OpenCore-EFI)](https://github.com/shawnpxtl/MIIX700-MIIX4-OpenCore-EFI)
-
 # 自我介绍
 
 **中文名：平行天翎**
