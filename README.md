@@ -27,8 +27,8 @@
     - 🪪 Telegram:@infinityandtl
 
 - :computer: PC/Laptop/Tablets:
-    - OMEN By HP Gaming Laptop 16-k0009TX (国行名称：惠普暗影精灵8 Pro,i7-12700H+RTX3060 40G+4T)
-    - HSGM D1581-R3 (国行名称：火神革命D1581-R3,Xeon D-1581,RX 580 2048SP,32G ECCDDR3L,512G NVME/1T SATA SSD/1T HDD/4T HDD)
+    - OMEN By HP Gaming Laptop 16-k0009TX (国行名称：惠普暗影精灵8 Pro,i7-12700H+RTX3060 64G+6T)
+    - HSGM D1581-R3 (国行名称：火神革命D1581-R3,Xeon D-1581,RX 580 2048SP,32G+2T NVME/1T HDD/4T HDD)
     - CW-N5105 V4(软路由,Celeron N5105 16G+512G)
     - Lenovo IdeaPad Miix700-12isk (国行名称：联想MIIX4,m5-6Y54 8G+128G)
     - HUAWEI MatePad Air (SM8350,12+256G)
