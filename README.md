@@ -27,8 +27,9 @@
     - 🪪 Telegram:@infinityandtl
 
 - :computer: PC/Laptop/Tablets:
-    - OMEN By HP Gaming Laptop 16-k0009TX (国行名称：惠普暗影精灵8 Pro,i7-12700H+RTX3060 64G+6T)
-    - Angxun X99-DS3 (国行名称：昂讯X99-ds3,Xeon E5-2676 v3,RX 580 2048SP+RTX2080Ti 22G,32G+2T NVME/1T SATA SSD/1T HDD/4T HDD)
+    - OMEN By HP Gaming Laptop 16-k0009TX (国行名称：惠普暗影精灵8 Pro),i7-12700H+RTX3060 64G+6T)
+    - AsRock Z370 Taichi with Intel QTJ1 ES (国行名称：华擎Z370太极),RTX2080Ti 22G,2T SSD/4T HDD)
+    - Angxun X99-DS3 with Xeon E5-2676 v3 (国行名称：昂讯X99-ds3),RX 580 2048SP+16G+512G NVME)
     - CW-N5105 V4(软路由,Celeron N5105 16G+512G)
     - HUAWEI MatePad Air (SM8350,12+256G)
 
@@ -37,8 +38,7 @@
     - Xiaomi Redmi Note 12 Turbo(marble)
     - OnePlus 7 Pro(guacamole)
     - Xiaomi Redmi 5 Plus(vince)
-    - OPPO A31
-    - Vivo Y23L
+    - Other...
 
 - 🌏 Router:
     - [Xiaomi Redmi AX6](https://github.com/shawnpxtl/Actions-OpenWrt-Redmi-AX6)
